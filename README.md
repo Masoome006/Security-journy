@@ -1,2 +1,2 @@
 # Security-journy
-My journey learning networking &amp; security from scratch
+My journey learning networking and security from scratch...
